@@ -4,5 +4,5 @@
 
 
 .displayFlex .box + .box {
-    margin-inline-start: 10rem;
+    margin-inline-start: 5rem;
 }
